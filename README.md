@@ -45,9 +45,13 @@
 ### 📕 Últimas publicaciones realizadas
 
 <!-- BLOG-POST-LIST:START -->
+* [Los efectos del viento Zonda en las variables meteorológicas](https://medium.com/@rodolfopardo/los-incre%C3%ADbles-efectos-del-zonda-en-cada-una-de-las-variables-meteorol%C3%B3gicas-465e5b13e705)
+* [Análisis de los tuits emitidos por los intendentes de Mendoza durante la cuarentena](https://medium.com/@rodolfopardo/twitter-es-su-voz-qu%C3%A9-dicen-y-a-qui%C3%A9n-le-hablan-los-intendentes-de-mendoza-949baad2313d)
+* [Multas realizadas durante la pandemia por la Ciudad de Mendoza](https://rodolfopardo.netlify.app/works/mas-de-5000-multas-en-la-ciudad-de-mendoza-por-no-cumplir-con-la-prevencion-del-c)
 * [Sismos registrados en Mendoza durante 2020](https://medium.com/@rodolfopardo/mendoza-registra-336-eventos-s%C3%ADsmicos-en-lo-que-va-de-este-2020-3ab69a62b620) 
 * [Irresponsabilidad social de los mendocinos: estudio de movilidad social](https://medium.com/@rodolfopardo/google-demuestra-la-irresponsabilidad-social-de-los-mendocinos-en-fase-de-aislamiento-a7555de9f0b)
 * [Cristina Kirchner vs Google: un caso para analizar](https://rodolfopardo.netlify.app/works/el-caso-cristina-kirchner-vs-google-deberia-alertar-a-todos-los-equipos-de-comuni)
+
 
 
 
