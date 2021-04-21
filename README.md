@@ -45,6 +45,7 @@
 ### 📕 Últimas publicaciones realizadas
 
 <!-- BLOG-POST-LIST:START -->
+* [Monitor público de vacunación contra el Covid en Mendoza](https://www.mdzol.com/sociedad/2021/4/20/estos-son-los-datos-de-la-vacunacion-contra-el-covid-en-mendoza-153586.html)
 * [Los efectos del viento Zonda en las variables meteorológicas](https://medium.com/@rodolfopardo/los-incre%C3%ADbles-efectos-del-zonda-en-cada-una-de-las-variables-meteorol%C3%B3gicas-465e5b13e705)
 * [Análisis de los tuits emitidos por los intendentes de Mendoza durante la cuarentena](https://medium.com/@rodolfopardo/twitter-es-su-voz-qu%C3%A9-dicen-y-a-qui%C3%A9n-le-hablan-los-intendentes-de-mendoza-949baad2313d)
 * [Multas realizadas durante la pandemia por la Ciudad de Mendoza](https://rodolfopardo.netlify.app/works/mas-de-5000-multas-en-la-ciudad-de-mendoza-por-no-cumplir-con-la-prevencion-del-c)
