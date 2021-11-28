@@ -2,11 +2,11 @@
 
 ## Soy un analista de datos especializado en Python, me capacité en un bootcamp intensivo donde pude desarrollar todas las habilidades necesarias para cumplir con cada paso del proceso ETL. Me apasiona visualizar soluciones basadas en datos que tienen un impacto en las empresas y la sociedad. 
 
-- 💻 Actualmente me encuentro trabajando como Data Analyst en [Infobae](https://www.infobae.com).
+- 💻 Actualmente me encuentro trabajando como Analista de Datos en [Infobae](https://www.infobae.com). También integro el equipo de Analistas en el rol de Data Analyst en [The 8Agency](https://www.linkedin.com/company/the-8agency/mycompany/). 
 - 👨‍🎓 Me formé en el bootcamp de Ironhack donde aprendí todas las librerías relacionadas al análisis de datos como Pandas, Numpy, scipy, scikit-learn, matplotlib, seaborn, entre tantas más.
 - 📈 Estoy en constante aprendizaje, me apasiona seguir estudiando y capacitandome de forma constante por eso estoy actualmente cursando la carrera de Data Science en Acámica 🤣.
-- 📊 Colaboro con consultoras y agencias de marketing para la obtención de datos y su posterior visualización y presentación.
-- 🏊‍♂️ No todos son datos, me encanta nadar. 
+- 📊 Colaboro con consultoras de datos y trabajo por mi cuenta proyectos de datos que se publican en los principales medios de Argentina.
+- 🏊‍♂️ No todos son datos, me encanta nadar. Siempre dedico un tiempo para mi familia y yo.
 
 ### Conectate conmigo:
 
