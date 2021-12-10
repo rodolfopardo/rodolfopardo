@@ -45,6 +45,7 @@
 ### 📕 Últimas publicaciones realizadas
 
 <!-- BLOG-POST-LIST:START -->
+* [Predicción de resultados - Emelec vs Independiente del Valle](https://www.elfutbolero.com.ec/ligaproa/A-Joao-Rojas-le-cerraron-la-boca-por-confiado-pues-ya-se-veia-campeon-con-Emelec-20211208-0003.html)
 * [Monitor público de vacunación contra el Covid en Mendoza](https://www.mdzol.com/sociedad/2021/4/20/estos-son-los-datos-de-la-vacunacion-contra-el-covid-en-mendoza-153586.html)
 * [Más de 300.000 mendocinos pasaron por el nuevo contador de bicicletas](https://rodolfopardo.medium.com/m%C3%A1s-de-300-000-mendocinos-pasaron-por-el-nuevo-contador-de-bicicletas-a7d0edcb932)
 * [Mendoza ha entregado un total de $376.994.000 en tarjetas Alimentar](https://rodolfopardo.medium.com/mendoza-ha-entregado-un-total-de-376-994-000-en-tarjetas-alimentar-120f86233b96)
