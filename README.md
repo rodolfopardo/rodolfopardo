@@ -2,9 +2,10 @@
 
 ## Soy un analista de datos especializado en Python, me capacité en un bootcamp intensivo donde pude desarrollar todas las habilidades necesarias para cumplir con cada paso del proceso ETL. Me apasiona visualizar soluciones basadas en datos que tienen un impacto en las empresas y la sociedad. 
 
-- 💻 Actualmente me encuentro trabajando como Analista de Datos en [Infobae](https://www.infobae.com). También integro el equipo de Analistas en el rol de Data Analyst en [The 8Agency](https://www.linkedin.com/company/the-8agency/mycompany/). 
+- 💻 Actualmente me encuentro trabajando como Analista de Datos en [Infobae](https://www.infobae.com). También integro el equipo de Analistas en el rol de Data Analyst en [The 8Agency](https://www.linkedin.com/company/the-8agency/mycompany/). Actualmente también me desempeño con Jefe del equipo de Data Analyst en [Grupo Alivia](https://www.linkedin.com/company/alivia-lcc/mycompany/), grupo de medios con localización en Ecuador pero con presencia en todos los mercados de LATAM. 
+- También integro el equipo de [Editor 80](https://editor80.com/), CMS para medios siendo el encargado de analizar las audiencias de todos los medios que usan Editor 80 y así poder buscar oportunidades en Google Discover, Google Search y Google News.
 - 👨‍🎓 Me formé en el bootcamp de Ironhack donde aprendí todas las librerías relacionadas al análisis de datos como Pandas, Numpy, scipy, scikit-learn, matplotlib, seaborn, entre tantas más.
-- 📈 Estoy en constante aprendizaje, me apasiona seguir estudiando y capacitandome de forma constante por eso estoy actualmente cursando la carrera de Data Science en Acámica 🤣 y realizando el curso de Data Analyst en Spreadsheet por Ben Collins.
+- 📈 Estoy en constante aprendizaje, me apasiona seguir estudiando y capacitandome de forma constante por eso estoy actualmente cursando capacitaciones en Big Query y realizando el curso de Data Analyst en Spreadsheet por Ben Collins para seguir complementando mis conocimientos en dicha herramienta.
 - 📊 Colaboro con consultoras de datos y trabajo por mi cuenta proyectos de datos que se publican en los principales medios de Argentina.
 - 🏊‍♂️ No todos son datos, también tengo mis tiempos personales. Mi familia, lo importante. Me encanta nadar.
 
